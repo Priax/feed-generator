@@ -1,0 +1,11 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:feed-generator-broken-glade-7898.fly.dev",
+  "service": [
+    {
+      "id": "#bsky_fg",
+      "type": "BskyFeedGenerator",
+      "serviceEndpoint": "https://feed-generator-broken-glade-7898.fly.dev"
+    }
+  ]
+}

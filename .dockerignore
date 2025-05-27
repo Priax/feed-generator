@@ -132,5 +132,3 @@ dist
 # intellij
 .idea/
 *.iml
-
-logs_deploy.txt
